@@ -231,7 +231,7 @@ MonoBehaviour:
         asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 1
-        m_EnableMaskAndCurrentWaterDecals: 0
+        m_EnableMaskAndCurrentWaterDecals: 1
     - rid: 643352288604455174
       type: {class: HDRenderPipelineEditorTextures, ns: UnityEngine.Rendering.HighDefinition,
         asm: Unity.RenderPipelines.HighDefinition.Runtime}
@@ -1129,7 +1129,7 @@ MonoBehaviour:
       type: {class: ProbeVolumeGlobalSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_Version: 1
-        m_ProbeVolumeDisableStreamingAssets: 0
+        m_ProbeVolumeDisableStreamingAssets: 1
     - rid: 643352288604455204
       type: {class: ShaderStrippingSetting, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
